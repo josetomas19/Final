@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Tarea Modulo 3</string>
+    <string name="bienvenido">Bienvenido</string>
+    <string name="todo">TODO</string>
+    <string name="boton">ENTRAR</string>
+
+</resources>

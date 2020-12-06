@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">Aufgabenmodul 3</string>
+    <string name="bienvenido">WILLKOMMEN</string>
+    <string name="todo">TODO</string>
+    <string name="boton">BETRETEN</string>
+
+
+
+</resources>

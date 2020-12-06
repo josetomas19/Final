@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Task Module 3</string>
+    <string name="bienvenido">WELCOME</string>
+    <string name="todo">TODO</string>
+    <string name="boton">ENTER</string>
+
+
+</resources>
